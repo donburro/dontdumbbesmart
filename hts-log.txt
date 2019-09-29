@@ -1,0 +1,101 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 31 Aug 2019 01:12:25 at http://dontdumbbesmart.com +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*/*.gif* +*/*.jpg* +*/*.jpeg* +*/*.png* +*/*.tif* +*/*.bmp* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://dontdumbbesmart.com -O1 "E:\Google Drive\DDBS\dontdumbbesmart.com\DDBS Archive" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*/*.gif* +*/*.jpg* +*/*.jpeg* +*/*.png* +*/*.tif* +*/*.bmp* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:12:28	Warning: 	Note: due to dontdumbbesmart.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:13:22	Warning: 	Retry after error 409 (Conflict) at link dontdumbbesmart.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4 (from dontdumbbesmart.com/)
+01:13:22	Warning: 	Retry after error -4 (No data (connection closed)) at link dontdumbbesmart.com/wp-content/themes/ruffie/assets/icons/font-awesome/css/font-awesome.min.css?ver=4.6.3 (from dontdumbbesmart.com/)
+01:13:25	Warning: 	Retry after error 409 (Conflict) at link dontdumbbesmart.com/xmlrpc.php?rsd (from dontdumbbesmart.com/)
+01:13:25	Warning: 	Retry after error -4 (No data (connection closed)) at link dontdumbbesmart.com/wp-includes/wlwmanifest.xml (from dontdumbbesmart.com/)
+01:13:40	Warning: 	Retry after error 409 (Conflict) at link dontdumbbesmart.com/contact/ (from dontdumbbesmart.com/)
+01:13:40	Warning: 	Retry after error -4 (No data (connection closed)) at link dontdumbbesmart.com/fu/ (from dontdumbbesmart.com/)
+01:16:15	Warning: 	Retry after error 409 (Conflict) at link dontdumbbesmart.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4 (from dontdumbbesmart.com/)
+01:16:24	Warning: 	Retry after error -4 (No data (connection closed)) at link dontdumbbesmart.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite.png?5 (from dontdumbbesmart.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.6)
+01:16:26	Warning: 	Retry after error 409 () at link dontdumbbesmart.com/xmlrpc.php?rsd (from dontdumbbesmart.com/)
+01:17:12	Warning: 	Retry after error 409 (Conflict) at link dontdumbbesmart.com/contact/ (from dontdumbbesmart.com/)
+01:17:17	Warning: 	Retry after error 409 (Conflict) at link dontdumbbesmart.com/xmlrpc.php (from dontdumbbesmart.com/move-forward-not-backward/)
+01:17:20	Warning: 	Retry after error -4 (No data (connection closed)) at link dontdumbbesmart.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdontdumbbesmart.com%2Fmove-forward-not-backward%2F (from dontdumbbesmart.com/move-forward-not-backward/)
+01:17:20	Warning: 	Moved Temporarily for dontdumbbesmart.com/move-forward-not-backward/?share=twitter
+01:17:20	Warning: 	File has moved from dontdumbbesmart.com/move-forward-not-backward/?share=twitter to https://twitter.com/intent/tweet?text=Move%20forward%2C%20not%20backward.&url=http%3A%2F%2Fdontdumbbesmart.com%2Fmove-forward-not-backward%2F
+01:17:20	Warning: 	Moved Temporarily for dontdumbbesmart.com/move-forward-not-backward/?share=facebook
+01:17:20	Warning: 	File has moved from dontdumbbesmart.com/move-forward-not-backward/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fmove-forward-not-backward%2F&t=Move%20forward%2C%20not%20backward.
+01:17:20	Warning: 	Moved Temporarily for dontdumbbesmart.com/my-first-and-last-new-car/?share=twitter
+01:17:20	Warning: 	File has moved from dontdumbbesmart.com/my-first-and-last-new-car/?share=twitter to https://twitter.com/intent/tweet?text=My%20first%20and%20last%20new%20car&url=http%3A%2F%2Fdontdumbbesmart.com%2Fmy-first-and-last-new-car%2F
+01:17:20	Warning: 	Moved Temporarily for dontdumbbesmart.com/my-first-and-last-new-car/?share=facebook
+01:17:20	Warning: 	File has moved from dontdumbbesmart.com/my-first-and-last-new-car/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fmy-first-and-last-new-car%2F&t=My%20first%20and%20last%20new%20car
+01:17:22	Warning: 	Moved Temporarily for dontdumbbesmart.com/amazon-journey/?share=twitter
+01:17:22	Warning: 	File has moved from dontdumbbesmart.com/amazon-journey/?share=twitter to https://twitter.com/intent/tweet?text=What%20the%20hell%20have%20I%20bought%3F&url=http%3A%2F%2Fdontdumbbesmart.com%2Famazon-journey%2F
+01:17:22	Warning: 	Moved Temporarily for dontdumbbesmart.com/amazon-journey/?share=facebook
+01:17:22	Warning: 	File has moved from dontdumbbesmart.com/amazon-journey/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Famazon-journey%2F&t=What%20the%20hell%20have%20I%20bought%3F
+01:17:27	Warning: 	Moved Temporarily for dontdumbbesmart.com/welcome/?share=twitter
+01:17:27	Warning: 	File has moved from dontdumbbesmart.com/welcome/?share=twitter to https://twitter.com/intent/tweet?text=Welcome%20to%20DDBS&url=http%3A%2F%2Fdontdumbbesmart.com%2Fwelcome%2F
+01:17:27	Warning: 	Moved Temporarily for dontdumbbesmart.com/welcome/?share=facebook
+01:17:27	Warning: 	File has moved from dontdumbbesmart.com/welcome/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fwelcome%2F&t=Welcome%20to%20DDBS
+01:17:29	Error: 	"Not Found" (404) at link dontdumbbesmart.com/g.gif (from https://stats.wp.com/e-201935.js)
+01:17:29	Error: 	"Not Found" (404) at link dontdumbbesmart.com/c.gif (from https://stats.wp.com/e-201935.js)
+01:17:29	Error: 	"Not Found" (404) at link dontdumbbesmart.com/t.gif (from https://stats.wp.com/e-201935.js)
+01:17:29	Error: 	"Conflict" (409) after 2 retries at link dontdumbbesmart.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4 (from dontdumbbesmart.com/)
+01:17:29	Warning: 	Retry after error -4 (No data (connection closed)) at link dontdumbbesmart.com/wp-content/themes/ruffie/assets/icons/font-awesome/fonts/fontawesome-webfont.eot? (from dontdumbbesmart.com/wp-content/themes/ruffie/assets/icons/font-awesome/css/font-awesome.min.css?ver=4.6.3)
+01:17:30	Error: 	"" (409) after 2 retries at link dontdumbbesmart.com/xmlrpc.php?rsd (from dontdumbbesmart.com/)
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/moving-on-up/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/moving-on-up/?share=twitter to https://twitter.com/intent/tweet?text=Moving%20on%20up&url=http%3A%2F%2Fdontdumbbesmart.com%2Fmoving-on-up%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/moving-on-up/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/moving-on-up/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fmoving-on-up%2F&t=Moving%20on%20up
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/do-the-right-thing/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/do-the-right-thing/?share=twitter to https://twitter.com/intent/tweet?text=Do%20the%20right%20thing&url=http%3A%2F%2Fdontdumbbesmart.com%2Fdo-the-right-thing%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/do-the-right-thing/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/do-the-right-thing/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fdo-the-right-thing%2F&t=Do%20the%20right%20thing
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/you-aint-really-family/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/you-aint-really-family/?share=twitter to https://twitter.com/intent/tweet?text=You%20ain%27t%20really%20family&url=http%3A%2F%2Fdontdumbbesmart.com%2Fyou-aint-really-family%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/you-aint-really-family/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/you-aint-really-family/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fyou-aint-really-family%2F&t=You%20ain%27t%20really%20family
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/the-little-salesman-that-could/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/the-little-salesman-that-could/?share=twitter to https://twitter.com/intent/tweet?text=The%20little%20salesman%20that%20could&url=http%3A%2F%2Fdontdumbbesmart.com%2Fthe-little-salesman-that-could%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/the-little-salesman-that-could/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/the-little-salesman-that-could/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fthe-little-salesman-that-could%2F&t=The%20little%20salesman%20that%20could
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/now-thats-a-great-deal/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/now-thats-a-great-deal/?share=twitter to https://twitter.com/intent/tweet?text=Now%20that%27s%20a%20great%20deal%21&url=http%3A%2F%2Fdontdumbbesmart.com%2Fnow-thats-a-great-deal%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/now-thats-a-great-deal/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/now-thats-a-great-deal/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fnow-thats-a-great-deal%2F&t=Now%20that%27s%20a%20great%20deal%21
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/only-buy-stocks-that-go-up/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/only-buy-stocks-that-go-up/?share=twitter to https://twitter.com/intent/tweet?text=Only%20buy%20stocks%20that%20go%20up&url=http%3A%2F%2Fdontdumbbesmart.com%2Fonly-buy-stocks-that-go-up%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/only-buy-stocks-that-go-up/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/only-buy-stocks-that-go-up/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fonly-buy-stocks-that-go-up%2F&t=Only%20buy%20stocks%20that%20go%20up
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/a-bet-you-cant-refuse/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/a-bet-you-cant-refuse/?share=twitter to https://twitter.com/intent/tweet?text=A%20bet%20you%20can%27t%20refuse&url=http%3A%2F%2Fdontdumbbesmart.com%2Fa-bet-you-cant-refuse%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/a-bet-you-cant-refuse/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/a-bet-you-cant-refuse/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fa-bet-you-cant-refuse%2F&t=A%20bet%20you%20can%27t%20refuse
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/the-power-of-habit/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/the-power-of-habit/?share=twitter to https://twitter.com/intent/tweet?text=The%20power%20of%20habit&url=http%3A%2F%2Fdontdumbbesmart.com%2Fthe-power-of-habit%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/the-power-of-habit/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/the-power-of-habit/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fthe-power-of-habit%2F&t=The%20power%20of%20habit
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/create-a-way-of-thinking/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/create-a-way-of-thinking/?share=twitter to https://twitter.com/intent/tweet?text=Create%20a%20way%20of%20thinking&url=http%3A%2F%2Fdontdumbbesmart.com%2Fcreate-a-way-of-thinking%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/create-a-way-of-thinking/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/create-a-way-of-thinking/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fcreate-a-way-of-thinking%2F&t=Create%20a%20way%20of%20thinking
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/better-just-wait/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/better-just-wait/?share=twitter to https://twitter.com/intent/tweet?text=Better%20just%20wait&url=http%3A%2F%2Fdontdumbbesmart.com%2Fbetter-just-wait%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/better-just-wait/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/better-just-wait/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fbetter-just-wait%2F&t=Better%20just%20wait
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/i-have-the-need-the-need-for-need/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/i-have-the-need-the-need-for-need/?share=twitter to https://twitter.com/intent/tweet?text=I%20have%20the%20need%2C%20the%20need%20for%20need&url=http%3A%2F%2Fdontdumbbesmart.com%2Fi-have-the-need-the-need-for-need%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/i-have-the-need-the-need-for-need/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/i-have-the-need-the-need-for-need/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fi-have-the-need-the-need-for-need%2F&t=I%20have%20the%20need%2C%20the%20need%20for%20need
+01:17:30	Error: 	"Conflict" (409) after 2 retries at link dontdumbbesmart.com/contact/ (from dontdumbbesmart.com/)
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/fu/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/fu/?share=twitter to https://twitter.com/intent/tweet?text=Budgeting%20may%20suck%2C%20but%20it%20sets%20you%20free&url=http%3A%2F%2Fdontdumbbesmart.com%2Ffu%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/fu/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/fu/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Ffu%2F&t=Budgeting%20may%20suck%2C%20but%20it%20sets%20you%20free
+01:17:30	Warning: 	Retry after error 409 () at link dontdumbbesmart.com/xmlrpc.php (from dontdumbbesmart.com/move-forward-not-backward/)
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/welcome-alternate/?share=twitter
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/welcome-alternate/?share=twitter to https://twitter.com/intent/tweet?text=Welcome%20to%20DDBS%20-%20Clinton%20wins%202016&url=http%3A%2F%2Fdontdumbbesmart.com%2Fwelcome-alternate%2F
+01:17:30	Warning: 	Moved Temporarily for dontdumbbesmart.com/welcome-alternate/?share=facebook
+01:17:30	Warning: 	File has moved from dontdumbbesmart.com/welcome-alternate/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdontdumbbesmart.com%2Fwelcome-alternate%2F&t=Welcome%20to%20DDBS%20-%20Clinton%20wins%202016
+01:17:33	Error: 	"" (409) after 2 retries at link dontdumbbesmart.com/xmlrpc.php (from dontdumbbesmart.com/move-forward-not-backward/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 8 seconds : 478 links scanned, 422 files written (10698311 bytes overall) [10003703 bytes received at 32479 bytes/sec], 1400483 bytes transferred using HTTP compression in 31 files, ratio 32%, 6.3 requests per connection
+(7 errors, 83 warnings, 0 messages)
